@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "baseUrl": "src"
+  },
+  "include": [
+    "src",
+    "../../Daemon Landing Page/js/landingpage.js",
+    "../../Daemon Landing Page/gulpfile.js"
+  ]
+}
