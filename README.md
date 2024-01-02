@@ -1,4 +1,4 @@
-**Daemon
+**Daemon**
 
 A fullstack JWT authentication project built using React and Django served on an Express server.
 
